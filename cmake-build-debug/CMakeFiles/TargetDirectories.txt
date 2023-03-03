@@ -1,0 +1,3 @@
+C:/Users/youse/CLionProjects/prjkt_exam_schedule/cmake-build-debug/CMakeFiles/prjkt_exam_schedule.dir
+C:/Users/youse/CLionProjects/prjkt_exam_schedule/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/youse/CLionProjects/prjkt_exam_schedule/cmake-build-debug/CMakeFiles/rebuild_cache.dir

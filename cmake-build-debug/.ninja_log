@@ -1,0 +1,20 @@
+# ninja log v5
+1	59	6994791173567667	CMakeFiles/prjkt_exam_schedule.dir/main.c.obj	c3709b0b5664cafe
+57	136	6995546945472086	prjkt_exam_schedule.exe	c3c8b22432bec1e
+2	542	6994687071694984	CMakeFiles/prjkt_exam_schedule.dir/Test.c.obj	6d223e232e6d90ff
+1	108	6995547161798700	build.ninja	ed471c268171d25a
+1	56	6995546944704149	CMakeFiles/prjkt_exam_schedule.dir/Playground.c.obj	67841a3cdd8dc16c
+1	72	6995547187084257	CMakeFiles/prjkt_exam_schedule.dir/Test.c.obj	6d223e232e6d90ff
+73	145	6995547187792362	prjkt_exam_schedule.exe	94c7e9b321039953
+1	54	6995548089616308	CMakeFiles/prjkt_exam_schedule.dir/Test.c.obj	6d223e232e6d90ff
+55	126	6995548090314702	prjkt_exam_schedule.exe	94c7e9b321039953
+1	54	6995554652428175	CMakeFiles/prjkt_exam_schedule.dir/Test.c.obj	6d223e232e6d90ff
+55	129	6995554653146256	prjkt_exam_schedule.exe	94c7e9b321039953
+1	58	6995559810180054	CMakeFiles/prjkt_exam_schedule.dir/Test.c.obj	6d223e232e6d90ff
+58	132	6995559810908105	prjkt_exam_schedule.exe	94c7e9b321039953
+1	55	6995560708558353	CMakeFiles/prjkt_exam_schedule.dir/Test.c.obj	6d223e232e6d90ff
+56	132	6995560709286122	prjkt_exam_schedule.exe	94c7e9b321039953
+1	55	6995562089278173	CMakeFiles/prjkt_exam_schedule.dir/Test.c.obj	6d223e232e6d90ff
+55	128	6995562089986348	prjkt_exam_schedule.exe	94c7e9b321039953
+2	56	6995563090195787	CMakeFiles/prjkt_exam_schedule.dir/Test.c.obj	6d223e232e6d90ff
+56	130	6995563090904727	prjkt_exam_schedule.exe	94c7e9b321039953
